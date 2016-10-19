@@ -1,0 +1,10 @@
+$primary-color: #fff;
+$base-size: 70px;
+
+body {
+  background: $primary-color;
+  font-size: $base-size;
+  div {
+    color: $primary-color;
+  }
+}
