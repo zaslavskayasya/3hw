@@ -1,0 +1,10 @@
+@mixin container {
+  margin: 0 auto;
+  max-width: 80%;
+}
+@mixin span {
+  display: inline-block;
+  color: #fff;
+  font-style: italic;
+  width: 100%;
+}
